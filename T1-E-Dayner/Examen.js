@@ -29,6 +29,7 @@ class empleados {
                 )
 
             }
-            personas()
+            personas()++mmu+
 
-             }
+             } 
+             
